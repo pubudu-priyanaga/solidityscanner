@@ -31,7 +31,7 @@ This tool currently supports detection of the following vulnerabilities:
 1. Navigate to the client folder:
    ```bash
    cd client
-2. Start the backend:
+2. Start the frontend:
     ```bash
     npm install
     npm start
